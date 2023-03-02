@@ -1,0 +1,121 @@
+*, 
+*::before, 
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  background: url(../img/sfondo-smb.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto 10px auto;
+}
+
+audio{
+  margin: 10px;
+}
+
+h1{
+  font-size: 4em;
+  font-family: 'New Super Mario Font U', sans-serif;        
+  color: white;                                   
+}
+
+button{
+  margin: 10px;
+  border-radius: 30%;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+img{
+  max-width: 100px;
+  max-height: 100px;
+}
+
+i{
+  font-family: "New Super Mario Font U", sans-serif;
+}
+
+p{
+  font-family: "New Super Mario Font U", sans-serif;
+  margin: 10px;
+}
+
+a{
+  font-family: "New Super Mario Font U", sans-serif;
+  text-decoration: none;
+  color: rgb(1, 96, 248);
+}
+a:hover{
+  color: rgb(56, 118, 29);
+}
+a:active{
+  color: rgb(255, 0, 0);
+}
+a:visited{
+  color:rgb(241, 194, 50);
+}
+a:visited:hover{
+  color: rgb(56, 118, 29);
+}
+a:visited:active{
+  color: rgb(255, 0, 0);
+}
+
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid white;
+  padding: 30px;
+  margin-top: 50px;
+  color: white;
+}
+
+.container{
+  margin: 10px;
+}
+
+.container-two{
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+#blue{
+  color: rgb(1, 96, 248);
+}
+
+#yellow{
+  color: rgb(241, 194, 50);
+}
+
+#red{
+  color: rgb(255, 0, 0);
+}
+
+#green{
+  color: rgb(56, 118, 29);
+}
+
+#logo{
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}

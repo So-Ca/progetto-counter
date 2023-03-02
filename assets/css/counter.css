@@ -1,0 +1,70 @@
+.subtract{
+  font-size: 15rem;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 0, 0);
+  font-family: "audiowide", sans-serif;
+}
+.subtract:hover{
+  box-shadow: inset 15px -15px 13px rgb(255, 0, 0);
+  border: 5px solid rgb(255, 0, 0);
+}
+
+.clear{
+  width: 100px;
+  height: 100px;
+  margin-top: 60px;
+  color: rgb(241, 194, 50);
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: "New Super Mario Font U", sans-serif;
+}
+.clear:hover{
+  box-shadow: 5px 5px 3px rgb(241, 194, 50);
+  border: 5px solid rgb(241, 194, 50);
+}
+
+.add{
+  font-size: 15rem;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(56, 118, 29);
+  font-family: "audiowide", sans-serif;
+}
+.add:hover{
+  box-shadow: inset -15px -15px 13px rgb(56, 118, 29);
+  border: 5px solid rgb(56, 118, 29);
+}
+
+.gif-plus{
+  position: absolute;
+  left: 400px;
+  bottom: 220px;
+}
+
+.gif-minus{
+  position: absolute;
+  left: 60px;
+  bottom: 220px;
+}
+
+.hidden{
+  opacity: 0;
+}
+
+#count{
+  margin: 10px;
+  font-size: 15em;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  font-family: "audiowide", sans-serif;
+}

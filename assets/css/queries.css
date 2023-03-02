@@ -1,0 +1,125 @@
+@media (max-width: 500px){
+  main{
+    margin: 50px auto;
+  }
+
+    img{
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .subtract{
+    font-size: 5rem;
+    width: 100px;
+    height: 100px;
+  }
+
+  .clear{
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    font-size: 1.3rem;
+  }
+
+  .add{
+    font-size: 5rem;
+    width: 100px;
+    height: 100px;
+  }
+
+  .gif-plus{
+    position: absolute;
+    left: 245px;
+    bottom: 120px;
+  }
+  
+  .gif-minus{
+    position: absolute;
+    left: 35px;
+    bottom: 120px;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 750px){
+  main{
+    margin: 50px auto;
+  }
+
+    img{
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .subtract{
+    font-size: 5rem;
+    width: 100px;
+    height: 100px;
+  }
+
+  .clear{
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    font-size: 1.3rem;
+  }
+
+  .add{
+    font-size: 5rem;
+    width: 100px;
+    height: 100px;
+  }
+
+  .gif-plus{
+    position: absolute;
+    left: 245px;
+    bottom: 120px;
+  }
+  
+  .gif-minus{
+    position: absolute;
+    left: 35px;
+    bottom: 120px;
+  }
+}
+
+@media (min-width: 751px) and (max-width: 999px){
+  main{
+    margin: 50px auto;
+  }
+
+    img{
+    max-width: 70px;
+    max-height: 70px;
+  }
+
+  .subtract{
+    font-size: 8rem;
+    width: 150px;
+    height: 150px;
+  }
+
+  .clear{
+    width: 85px;
+    height: 85px;
+    margin-top: 50px;
+    font-size: 1.3rem;
+  }
+
+  .add{
+    font-size: 8rem;
+    width: 150px;
+    height: 150px;
+  }
+
+  .gif-plus{
+    position: absolute;
+    left: 335px;
+    bottom: 180px;
+  }
+  
+  .gif-minus{
+    position: absolute;
+    left: 55px;
+    bottom: 180px;
+  }
+}
