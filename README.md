@@ -67,5 +67,5 @@ The site is completely responsive and it can be used in several device.
 <h3>Contacts</h3>
 
 <a href="https://so-ca-counter.netlify.app">Counter</a><br>
-<a href="so-ca-portfolio.netlify.app">Portfolio</a>
+<a href="so-ca-portfolio.netlify.app">Portfolio</a><br>
 <a href="https://www.linkedin.com/in/sonny-caputo-554315185">LinkedIn</a>
