@@ -58,7 +58,7 @@
   opacity: 0;
 }
 
-#count{
+.count{
   margin: 10px;
   font-size: 15em;
   font-weight: bold;
